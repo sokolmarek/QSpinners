@@ -1,3 +1,10 @@
+################################################################################
+##                                                                            ##
+## Author: Marek Sokol                                                        ##
+## Made with: QtDesigner and PySide2                                          ##
+##                                                                            ##
+################################################################################
+
 import sys
 from PySide2.QtCore import *
 from PySide2.QtWidgets import *
